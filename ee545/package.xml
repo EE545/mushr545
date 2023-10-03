@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="3">
-  <name>cse478</name>
+  <name>ee545</name>
   <version>0.0.0</version>
-  <description>The cse478 package</description>
+  <description>The ee545 package</description>
 
   <author>Brian Hou</author>
   <author>Gilwoo Lee</author>
