@@ -35,7 +35,7 @@ def norm_numpy(data):
     # BEGIN QUESTION 2.2
     "*** REPLACE THIS LINE ***"
     # END QUESTION 2.2
-
+    return data
 
 class PoseListener:
     """Collect car poses."""
