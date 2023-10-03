@@ -1,4 +1,4 @@
-# from introduction.fibonacci import compute_fibonacci
+from introduction.fibonacci import compute_fibonacci
 
 
 def extract_fibonacci_rows(data):
@@ -19,7 +19,7 @@ def extract_fibonacci_rows(data):
     # BEGIN QUESTION 3.1
     "*** REPLACE THIS LINE ***"
     # END QUESTION 3.1
-
+    return arr
 
 def increment_rows_with_odd_first_element(data):
     """Add one to rows of a numpy array where the 0th column element is odd,
