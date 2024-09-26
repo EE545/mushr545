@@ -1,0 +1,25 @@
+- git:
+    local-name: serial
+    uri: https://github.com/wjwwood/serial.git
+- git:
+    local-name: mushr
+    uri: https://github.com/prl-mushr/mushr.git
+    version: nick/noetic
+- git:
+    local-name: push_button_utils
+    uri: https://github.com/prl-mushr/push_button_utils.git
+- git:
+    local-name: ydlidar
+    uri: https://github.com/prl-mushr/ydlidar.git
+- git:
+    local-name: mushr_base
+    uri: https://github.com/prl-mushr/mushr_base.git
+    version: nick/python3-support
+- git:
+    local-name: mushr_sim
+    uri: https://github.com/prl-mushr/mushr_sim.git
+    version: nick/python3-support
+- git:
+    local-name: vesc
+    uri: https://github.com/prl-mushr/vesc.git
+    version: nick/python3-support
