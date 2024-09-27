@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(cse478)
+project(ee545)
 
 find_package(catkin REQUIRED COMPONENTS
   rospy
