@@ -5,7 +5,7 @@ import rospy
 from ackermann_msgs.msg import AckermannDriveStamped
 from geometry_msgs.msg import PoseWithCovarianceStamped
 
-from cse478 import utils
+from ee545 import utils
 
 
 class PathPublisher:

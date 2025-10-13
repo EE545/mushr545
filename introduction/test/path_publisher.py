@@ -8,8 +8,8 @@ import unittest
 from ackermann_msgs.msg import AckermannDriveStamped
 from geometry_msgs.msg import PoseWithCovarianceStamped
 
-from cse478.collector import MessageCollector
-from cse478.utils import pose_stamped_to_pq
+from ee545.collector import MessageCollector
+from ee545.utils import pose_stamped_to_pq
 
 
 class TestPublisher(unittest.TestCase):
